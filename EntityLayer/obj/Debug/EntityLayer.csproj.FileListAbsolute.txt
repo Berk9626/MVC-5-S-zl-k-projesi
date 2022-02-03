@@ -1,0 +1,12 @@
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\berkb\source\repos\MvcProjeKapi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
